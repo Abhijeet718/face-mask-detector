@@ -4,7 +4,7 @@ A deep learning-based Face Mask Detection web application built using **FastAPI*
 
 ## 🚀 Live Demo
 
-🔗 **Live Application:** https://face-mask-detector-ql4b.onrender.com
+🔗 **Live Application:**  https://face-mask-detector-mlue.onrender.com
 
 ## 📌 Features
 
