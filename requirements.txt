@@ -1,8 +1,8 @@
-fastapi
-uvicorn
-tensorflow-cpu
-numpy
-Pillow
-Jinja2
-python-multipart
-h5py
+fastapi==0.136.1
+uvicorn==0.35.0
+tensorflow==2.20.0
+numpy==2.3.1
+Pillow==11.3.0
+Jinja2==3.1.6
+python-multipart==0.0.20
+h5py==3.14.0
